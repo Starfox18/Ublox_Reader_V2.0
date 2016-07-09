@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Ublox_Reader_V2.0", "Ublox_Reader_V2.0\Ublox_Reader_V2.0.cproj", "{9D0A92AD-2845-4C2E-BE32-29490557F832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D0A92AD-2845-4C2E-BE32-29490557F832}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9D0A92AD-2845-4C2E-BE32-29490557F832}.Debug|AVR.Build.0 = Debug|AVR
+		{9D0A92AD-2845-4C2E-BE32-29490557F832}.Release|AVR.ActiveCfg = Release|AVR
+		{9D0A92AD-2845-4C2E-BE32-29490557F832}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
